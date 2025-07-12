@@ -1,4 +1,4 @@
-# 📀 DVD Digitization Workflow
+# 🎞️ Genre-Organized DVD Vault
 
 A detailed log of Allen Bartley’s DVD media archive, digitized and organized across genres, formats, and personal interests. This list reflects hundreds of titles curated with care, narrative respect, and playback-friendly structure.
 
