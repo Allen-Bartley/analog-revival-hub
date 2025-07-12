@@ -44,12 +44,39 @@ All digitized media lives on an external archive drive organized as follows:
 /Movies
     /Animated
         - FernGully (1992) [tt0104254].mp4
+        - The Fantastic Mr. Fox (2009) [tt0432283].mp4
         /Daria
             - Is It Fall Yet (2000) [tt0286244].mp4
             - Is It College Yet (2002) [tt0320819].mp4
     /Live Action
-        - The Fantastic Mr. Fox (2009) [tt0432283].mp4
+        - 10 Things I Hate About You (1999) [tt0147800].mp4
 
 /TV_Shows
     /Animated
+        /Darkwing Duck
+            - Season folders or episode files…
     /Live Action
+        /The IT Crowd
+            - Season folders or episode files…
+```
+**Naming convention:**  
+`Title (Year) [IMDb_ID].mp4` — Helps with media scraper accuracy and Plex-style integration.
+
+---
+
+## 📼 Special Project: *50 Sci-Fi Classics Box Set*
+
+Digitizing each film individually from a budget anthology gift set.  
+- Encoding same as above  
+- Stored temporarily in `Videos` library for post-sorting  
+- Will be integrated into archive once tagging and titles are finalized
+
+---
+
+## 📚 Reflections
+
+Digitizing DVDs has been both practical and personal—especially when dealing with inherited media. It’s less about resolution and more about preservation. By accepting the source for what it is (often 480p with fuzzy prints), I’ve built a library that honors family film history and supports easy playback across devices.
+
+---
+
+🛠️ *Part of the Analog Revival Hub. From discs to digital with intention and structure.*
