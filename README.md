@@ -22,6 +22,7 @@ Welcome to my personal collection of retro-inspired media conversion setups. Thi
 | [`VHS to Roku Streaming`](VHS-to-Roku-Streaming-Setup.md)     | Setup for watching digitized tapes via Roku media player on a living room television          | Complete   |
 | [`USB Turntable Workflow`](USB-Turntable-Digitization.md)     | Guide to digitizing vinyl records and organizing audio files with tagging and cleanup steps   | Complete   |
 | [`DIY ATI DVR Recovery`](ATI-All-In-Wonder-DVR-Setup.md)      | Recollection of building a PC-based DVR using ATI hardware to enable TV viewing and recording | Complete   |
+| [`DVD Digitization Workflow`](DVD-Digitization-Workflow.md)   | Process for converting physical DVDs to structured digital files using HandBrake and GPU encoding | Complete   |
 
 ---
 
