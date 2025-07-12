@@ -40,3 +40,16 @@ This module outlines my typical process for digitizing DVDs using HandBrake, wit
 
 All digitized media lives on an external archive drive organized as follows:
 
+```text
+/Movies
+    /Animated
+        - FernGully (1992) [tt0104254].mp4
+        /Daria
+            - Is It Fall Yet (2000) [tt0286244].mp4
+            - Is It College Yet (2002) [tt0320819].mp4
+    /Live Action
+        - The Fantastic Mr. Fox (2009) [tt0432283].mp4
+
+/TV_Shows
+    /Animated
+    /Live Action
