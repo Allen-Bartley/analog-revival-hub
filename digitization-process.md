@@ -1,4 +1,4 @@
-# 📀 DVD Digitization Workflow
+# 🛠️ DVD Digitization Process Overview
 
 ### *Preserving personal film archives with GPU-accelerated encoding and structured media curation.*
 
